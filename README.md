@@ -1,4 +1,4 @@
-[![An image of @shivani51yadav's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shivani51yadav)](https://holopin.io/@shivani51yadav)
+![Poster](./docs/poster.png)
 
 <h1 align="center">Hi 👋, I'm Shivani Yadav</h1>
 <h3 align="center">A highly skilled and motivated web developer with a strong background in personal project experience, seeking to leverage my expertise to contribute to a dynamic and innovative team. Committed to delivering exceptional web solutions, I aim to utilize my technical skills, creativity, and passion for coding to develop cutting-edge websites that exceed client expectations and drive business growth.</h3>
@@ -6,6 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivani51yadav&label=Profile%20views&color=0e75b6&style=flat" alt="shivani51yadav" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivani51yadav" alt="shivani51yadav" /></a> </p>
+
+[![An image of @shivani51yadav's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shivani51yadav)](https://holopin.io/@shivani51yadav)
 
 - 👨‍💻 All of my projects are available at [shivaniyadav.me](shivaniyadav.me)
 
